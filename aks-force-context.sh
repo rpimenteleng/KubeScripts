@@ -1,4 +1,4 @@
-# Azure Context Utility
+# AKS Context Utility
 #!/bin/bash
 if [ $# -ne 2 ]; then
     echo "Usage:"
